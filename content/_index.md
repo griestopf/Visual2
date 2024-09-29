@@ -18,6 +18,7 @@ Topics covered in detail in this module are
 - Game-Engine Export 
 
 
+
 We will *not* learn how to setup our 3D model for animation nor will we animate it during this course. Animation will be covered in subsequent modules.
 
 Requirements
