@@ -20,7 +20,7 @@ Installation, first steps, and getting familiar with Blender.
 
 - Explain Blender UI concepts: What is a ... Show how to use a ...
   - _Workspace_ (what are they for)?
-  - _Area_ (how do I split and re-unit them)?
+  - _Area_ (how do I split and re-unite them)?
   - _Editor_ (how to I change the editor within a specific _Area_)?
   - _Region_ (what types of _Regions_ exist)?
 - What are the main _Editor_ types we will currently use?
