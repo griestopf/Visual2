@@ -30,10 +30,9 @@ Generate a simple geometry made out of quads only with edge loops following your
 
 - What did your research on "good topology" yield? Discuss various aspects
 - Why are quads important?
-- What is "back face culling". What is a "back face" in the first place?
+- What is "back face culling". What is a "back face" in the first place? How do you turn a back face into a front face?
 
 ## Material
 
 - _Retopology Tips_ (Blender Secrets, Vol 6 (Retopo-UVs-Baking), page 939)
 - _Quad Topology Tips_ (Blender Secrets, Vol 2 (Modeling), page 230)
-
