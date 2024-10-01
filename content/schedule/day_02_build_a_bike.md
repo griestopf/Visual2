@@ -35,3 +35,15 @@ Get familiar with navigating in 3D and using built-in 3D-objects (*primitives*) 
   - [Pivot Point](https://docs.blender.org/manual/en/latest/editors/3dview/controls/pivot_point/index.html)
   - [Boolean Modifier](https://docs.blender.org/manual/en/2.81/modeling/modifiers/generate/booleans.html)
 - _Snapping with Base Points in Blender 4_ (Blender Secrets, Vol 1 (Modeling Basics), page 18)
+
+
+## Insights
+
+### Move an object's origin (aka its ***Pivot Point***) to set the center of rotation
+
+![](images/01_PivotPoint.png)
+
+
+### Use a boolean modifier to create a wheel
+
+![](images/02_Boolean.png)
