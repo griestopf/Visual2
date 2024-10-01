@@ -16,8 +16,8 @@ The planned contents is
 |Thu, 03. Oct   | **Holiday**	                    |
 |Fri, 04. Oct   | **[Blockout - Silhouette-wise]({{< ref "day_04_blockout" >}})**    | Learn basic sculpting tools. Use them to make the simple clay model match the intended shapes           
 |Mon, 07. Oct   | **[Retopology - Know Your Quads]({{< ref "day_05_retopology" >}})**  | Generate a simple geometry made out of quads only with edge loops following your character's features.
-|Tue, 08. Oct   | **[Retopology - Again]()**            | More Retopolgy
-|Wed, 09. Oct   | **[Details In MultiRes]()**           | Add Details using scultpting. Use Multiresolution geometry to be able to scale to different requirements
+|Tue, 08. Oct   | **[Retopology - Again]({{< ref "day_05_retopology" >}})**            | More Retopolgy
+|Wed, 09. Oct   | **[Details In MultiRes]({{< ref "day_06_details_in_multires" >}})**           | Add Details using scultpting. Use Multiresolution geometry to be able to scale to different requirements
 |Thu, 10. Oct   | **[UV-Unwrap]()**	                    |
 |Fri, 11. Oct   | **[UV-Unwrap]()**	                    |
 |Mon, 14. Oct   | **[Texturing]()**		                |
