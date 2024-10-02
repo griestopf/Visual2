@@ -39,11 +39,15 @@ Get familiar with navigating in 3D and using built-in 3D-objects (*primitives*) 
 
 ## Insights
 
-### Move an object's origin (aka its ***Pivot Point***) to set the center of rotation
+### Move an Object's Origin
 
-![](images/01_PivotPoint.png)
+Move the origin of objects (a.k.a. their ***Pivot Point***) to set the center of rotation and scale
+
+![Pivot Point](01_PivotPoint.png)
 
 
-### Use a boolean modifier to create a wheel
+### Booleans
 
-![](images/02_Boolean.png)
+Use boolean modifiers to mix the shapes of objects to create new, more complex shapes. E. g. use a cylinder to carve a hole in another cylinder et voilà: a wheel.
+
+![Boolean](02_Boolean.png)

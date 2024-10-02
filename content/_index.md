@@ -5,7 +5,12 @@ title = ""
 
 Welcome to the Visual 2 module's web site.
 
-In this module we will learn how to create a 3D character and export it as a game asset. We will use [Blender](https://www.blender.org/) as the main content creation tool. To verify that our asset can be used in a game engine, we will use [Godot](https://godotengine.org/) as an example game engine. 
+In this module we will learn how to create a 3D character and export it as a game asset. This will be done along a pre-defined process.
+
+![Process](01_process.png)
+
+
+We will use [Blender](https://www.blender.org/) as the main content creation tool. To verify that our asset can be used in a game engine, we will use [Godot](https://godotengine.org/) as an example game engine. 
 
 Topics covered in detail in this module are
 
