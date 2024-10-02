@@ -23,7 +23,7 @@ Get familiar with navigating in 3D and using built-in 3D-objects (*primitives*) 
 - Explain a good way to radially and evenly distribute the tube shaped spokes of a wheel!
 - Explain the various parameters of each geometry primitive in the respective [_Adjust Last Operation panel_](https://docs.blender.org/manual/en/latest/interface/window_system/regions.html)!
 - Where in your model did you use parent-child relationships and why?
-- Why is the boolean modifier called "boolean"? What are the three "boolean" (or rather, set-) operations
+- Why is the boolean modifier called "boolean"? What are the three "boolean" (or rather, set-) operations?
 
 
 ## Material

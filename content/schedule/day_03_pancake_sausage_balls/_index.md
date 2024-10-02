@@ -46,3 +46,19 @@ Modeling with virtual clay. Inspired by Rony Oren, everything is built out of ba
 - _Loop Tools_ (Blender Secrets, Vol 1 (Modeling Basics), page 27)
 - [The Double Subdiv Method (Blender Secrets)](https://www.youtube.com/watch?v=13UN1Lju5Hs)
 
+
+## Insights
+
+### Clay Modeling
+
+Create clay lumps using a cube with a Subdivision Surface modifier.
+
+![Clay Modeling](01_ClayModel.png)
+
+
+### Symmmetry
+
+Use symmetry modifiers to model only one half of the model and to create perfectly symmetrical shapes (if the concept allows for that). Small variations between left and right can be added at later stages. 
+Be aware of objects that need to be cut in half (such as a character's torso) and objects that need to be duplicated (such as arms and legs)
+
+![Boolean](02_Symmetry.png)
