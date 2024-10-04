@@ -41,3 +41,10 @@ Learn basic sculpting tools. Use them to make the simple clay model match the in
   - [Adaptive Resolution](https://docs.blender.org/manual/en/latest/sculpt_paint/sculpting/introduction/adaptive.html)
 - _Sculpting_ is an entire chapter in Blender Secrets (Vol 5 (Sculpting), page 740) although many of the techniques described there do not apply on this task. Read over it anyway to get an overview on the various facets of sculpting.
 - Practice, practice, practice!
+
+
+### Sculpting basics
+
+The following screenshot is taken in the sculpting workspace which automatically sets the 3D Editor into sculpting mode.
+
+![Boolean](01_Sculpting.png)
