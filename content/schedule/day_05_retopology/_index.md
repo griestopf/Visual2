@@ -36,3 +36,18 @@ Generate a simple geometry made out of quads only with edge loops following your
 
 - _Retopology Tips_ (Blender Secrets, Vol 6 (Retopo-UVs-Baking), page 939)
 - _Quad Topology Tips_ (Blender Secrets, Vol 2 (Modeling), page 230)
+
+
+## Insights
+
+### Snapping
+
+Set Blender snapping to "Face Project". This will slide the retopology object's vertices on the original sculpt model
+
+![Snapping](day_05_snapping_settings.png)
+
+### Visibility and Poly Build
+
+Tweak the visibility settings to display the retopo object in an easy-to-use way. Use the Poly Build tool to create new quads and edit their vertices at the same time.
+
+![PolyBuild](day_05_visibility_polybuild.png)

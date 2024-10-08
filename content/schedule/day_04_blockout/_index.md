@@ -42,6 +42,7 @@ Learn basic sculpting tools. Use them to make the simple clay model match the in
 - _Sculpting_ is an entire chapter in Blender Secrets (Vol 5 (Sculpting), page 740) although many of the techniques described there do not apply on this task. Read over it anyway to get an overview on the various facets of sculpting.
 - Practice, practice, practice!
 
+## Insights
 
 ### Sculpting basics
 
