@@ -51,3 +51,39 @@ Set Blender snapping to "Face Project". This will slide the retopology object's 
 Tweak the visibility settings to display the retopo object in an easy-to-use way. Use the Poly Build tool to create new quads and edit their vertices at the same time.
 
 ![PolyBuild](day_05_visibility_polybuild.png)
+
+
+### Criteria for "Good" Topology
+
+- Quads only
+- Most vertices span four edges and four quads. Only few vertices (called _poles_) connect three or five edges/quads. No poles with more than five connecting edges/quads
+- "Good" Edge/Polygon-Flow
+  - "Loop cut test" suggests simple and clear loops. No spiraling loops
+  - Adding detail at most places is as simple as a loop cut
+- Think cloth! 
+- Animation safe
+  - At hinges and joints: Edges are always either in the line of displacement or in the line of the hinge's axis.
+  - Denser polygon resolution where much distortion by animation is expected
+  - Rings around areas with much distortion by animation (e.g. mouth, eyes)
+
+### Hands-on Tips for Retopology
+
+#### N → M Transitions
+
+When Laying out quad topology along a certain direction with a number of quads (n), it is often desired to change that number. If the geometry becomes smaller along the progress direction, the width of the progressing "quad front" needs to be made out of less (m) quads or vice versa (in case the geometry becomes bigger). Imagine progressing a cylindrical quad front along a leg. At places where the leg becomes thinner, you want the cylinder rings to be made out of less quads. How do you add more "lanes"  to the edge/polygon flow without introducing triangles or n-gons?
+
+**Bad news:** It is impossible to transition from an even to an odd quad count or vice versa.
+
+**Good news:** Almost every (m→n) with _both_, m _and_ n being either even or odd transition can be reduced to a 2 → 4 (or 4 → 2) transition.
+
+The following image shows a 2 → 4 transition. The red arrows depict the progress direction. 
+
+![2 → 4 transition](day_05_2_to_4_transision.png)
+
+This can easily be expanded to a 2 → 6 transition by adding a second lane to the inner U-turn quad flow.
+
+![2 → 6 transition](day_05_2_to_6_transision.png)
+
+As an example for a transition between odd numbers the following image simultaneously shows a 1→3 transistion which can be seen as the kernel of a 3→5 transition.
+
+![3→5 transition](day_05_3_to_5_transision.png)
