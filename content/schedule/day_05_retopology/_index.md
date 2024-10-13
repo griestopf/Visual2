@@ -42,7 +42,7 @@ Generate a simple geometry made out of quads only with edge loops following your
 
 ### Snapping
 
-Set Blender snapping to "Face Project". This will slide the retopology object's vertices on the original sculpt model
+Set Blender snapping to "Face Project". This will slide the retopology object's vertices on the original sculpt model.
 
 ![Snapping](day_05_snapping_settings.png)
 
@@ -56,7 +56,7 @@ Tweak the visibility settings to display the retopo object in an easy-to-use way
 ### Criteria for "Good" Topology
 
 - Quads only
-- Most vertices span four edges and four quads. Only few vertices (called _poles_) connect three or five edges/quads. No poles with more than five connecting edges/quads
+- Most vertices span four edges and four quads. Only few vertices (called _poles_) connect three or five edges/quads. Avoid poles with more than five connecting edges/quads. 
 - "Good" Edge/Polygon-Flow
   - "Loop cut test" suggests simple and clear loops. No spiraling loops
   - Adding detail at most places is as simple as a loop cut
@@ -80,10 +80,16 @@ The following image shows a 2 → 4 transition. The red arrows depict the progre
 
 ![2 → 4 transition](day_05_2_to_4_transision.png)
 
-This can easily be expanded to a 2 → 6 transition by adding a second lane to the inner U-turn quad flow.
+This can easily be expanded to a 2 → 6 transition by adding a second lane to the inner U-turn quad flow. As a result this transition contains a rare case where a pole with six connecting edges is acceptable (assignment: find it!).
 
 ![2 → 6 transition](day_05_2_to_6_transision.png)
 
-As an example for a transition between odd numbers the following image simultaneously shows a 1→3 transistion which can be seen as the kernel of a 3→5 transition.
+As an example for a transition between odd numbers the following image simultaneously shows a 1→3 transition which can be seen as the kernel of a 3→5 transition.
 
 ![3→5 transition](day_05_3_to_5_transision.png)
+
+#### TODO: 3-Poles at Caps and Lids
+
+#### TODO: 5-Poles at Extrusions and Extremities
+
+#### TODO: Use Grid Fill for Caps
