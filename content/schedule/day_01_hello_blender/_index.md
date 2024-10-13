@@ -39,7 +39,7 @@ Installation, first steps, and getting familiar with Blender.
 ## Material
   
   - [Blender *Start Here* Game](https://www.xrio.io/)
-  - [Blender Manual - User Interface](https://docs.blender.org/manual/en/latest/interface/index.html)
+  - [Blender Manual -- User Interface](https://docs.blender.org/manual/en/latest/interface/index.html)
   - [Extra Mesh Objects Extension](https://extensions.blender.org/add-ons/extra-mesh-objects/?utm_source=blender-4.2.0)
 
 

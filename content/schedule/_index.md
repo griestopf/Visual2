@@ -18,10 +18,10 @@ The planned contents is
 |Mon, 07. Oct   | **[Retopology - Know Your Quads]({{< ref "day_05_retopology" >}})**  | Generate a simple geometry made out of quads only with edge loops following your character's features.
 |Tue, 08. Oct   | **[Retopology - Again]({{< ref "day_05_retopology" >}})**            | More Retopolgy
 |Wed, 09. Oct   | **[Details In MultiRes]({{< ref "day_06_details_in_multires" >}})**           | Add Details using scultpting. Use Multiresolution geometry to be able to scale to different requirements
-|Thu, 10. Oct   | **[UV-Unwrap]()**	                    |
-|Fri, 11. Oct   | **[UV-Unwrap]()**	                    |
-|Mon, 14. Oct   | **[Texturing]()**		                |
-|Tue, 15. Oct   | **[Texturing]()**		                |
+|Thu, 10. Oct   | **[UV Unwrapping]({{< ref "day_07_uv_unwrap" >}})**	                    | Unfold the 3D-topology onto a flat 2D plane. This will allow textures to control the visual appearance of the object's surface material.
+|Fri, 11. Oct   | **[UV Unwrapping]({{< ref "day_07_uv_unwrap" >}})**	                    |
+|Mon, 14. Oct   | **[Texture Painting]({{< ref "day_08_texture_painting" >}})**		                |
+|Tue, 15. Oct   | **[Texture Painting]()**		                |
 |Wed, 16. Oct   | **[Materials]()**		                |
 |Thu, 17. Oct   | **[Baking and Export/Import]()** 		|
 |Fri, 18. Oct   | **[Final Steps]()**		            |
