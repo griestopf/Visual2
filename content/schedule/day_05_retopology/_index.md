@@ -88,8 +88,26 @@ As an example for a transition between odd numbers the following image simultane
 
 ![3→5 transition](day_05_3_to_5_transision.png)
 
-#### TODO: 3-Poles at Caps and Lids
+#### Think Subdiv: 3- and 5-Poles
 
-#### TODO: 5-Poles at Extrusions and Extremities
+Observe how a subdivision surface modifier generates nice 4-edge-vertices at almost every part of the geometry. The only exception is where the control geometry contains corners (3-Poles) and extrusions (5-Poles). Use this rule for your hand-made retopology.
 
-#### TODO: Use Grid Fill for Caps
+
+##### 3-Poles at Caps and Lids
+
+At places where an elongated part of the object ends with a cap- or lid-like closure, the loop of edges making up the boundary between the lateral surface and the cap typically contains up to four 3-poles (vertices with only three connecting edges) while all other vertices connect four edges.
+
+![3-Poles](day_05_3-poles.png)
+
+##### 5-Poles at Extrusions and Extremities
+
+An edge loops making up the boundary between a base part and a part extruded from the object (such as the body and an arm of a character) typically contains up to four 5-poles.
+
+![5-Poles](day_05_5-poles.png)
+
+
+#### Use Grid Fill for Caps
+
+To close an elongated part with a cap, use the grid fill command (works only if the loop around the elongation is made out of an even number of quads/edges).
+
+![Grid Fill](day_05_grid_fill.png)
