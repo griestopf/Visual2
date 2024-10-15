@@ -38,3 +38,20 @@ Sculpt again, now simultaneously in multiple polygonal resolutions.
 - _Sculpting with Textures and Stencils_ (Blender Secrets, Vol 5 (Sculpting), page 751)
 - _Sculpting Sword Details Using Alpha textures_ (Blender Secrets, Vol 5 (Sculpting), page 780)
 - _Hard Surface Sculpting_ (Blender Secrets, Vol 5 (Sculpting), page 768)
+- [Free sculpting texture brush downloads from ZBrush](https://pixologic.com/zbrush/downloadcenter/alpha/)
+
+
+## Insights
+
+### Prepare for Multires Sculpting
+
+Use a multiresolution modifier (as the only modifier) on your retopologized character and have the multiresolution blow up your face count to a number capable of displaying finest details. Use the MatCap display viewport shading to show finest nuances on your object's surface geometry.
+
+![Prepare for multires](day_06_01_preparations.png)
+
+
+### Sculpt Details using Texures
+
+To sculpt fine details such as skin, fur, cloth or other surface structures, consider using a black-and-white texture encoding the spacial surface structures as gray scales (See [Material](#material) for free brush images).
+
+![Sculpt with Textures](day_06_02_sculpting_brush_texture.png)
