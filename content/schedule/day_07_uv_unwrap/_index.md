@@ -40,3 +40,19 @@ Unfold the threedimensional topology onto a flat 2D plane. This will allow textu
 
 - [Blender Manual -- Seams](https://docs.blender.org/manual/en/latest/modeling/meshes/uv/unwrapping/seams.html)
 - _Unwrap Like a Pro Using Live Unwrap_ (Blender Secrets, Vol 6 (Retopo/UVs/Baking), page 988)
+
+
+## Insights
+
+### Prepare for UV Unwrapping
+
+Use a generated checkerboard control texture as a material's "Base Color".
+
+![Prepare for UV Unwrapping](day_07_01_create_uv_grid.png)
+
+### Mark Seams
+
+Use CTRL+LMB with "Tag Seam" to directly paint seams. Toggle "UV Sync Selection" for different features such as marking islands
+
+![Seam editing](day_07_02_uv_editing.png)
+
