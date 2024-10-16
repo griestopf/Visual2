@@ -23,7 +23,7 @@ The planned contents is
 |Mon, 14. Oct   | **[Texture Painting]({{< ref "day_08_texture_painting" >}})**		                |
 |Tue, 15. Oct   | **[Texture Painting]()**		                |
 |Wed, 16. Oct   | **[Materials]()**		                |
-|Thu, 17. Oct   | **[Baking and Export/Import]()** 		|
+|Thu, 17. Oct   | **[Baking and Export/Import](({{< ref "day_09_normal_baking" >}})** 		|
 |Fri, 18. Oct   | **[Final Steps]()**		            |
 
 
