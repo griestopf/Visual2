@@ -2,7 +2,7 @@
 title = 'Normal Baking'
 date = 2024-09-28T15:40:23+02:00
 draft = false
-weight = 90
+weight = 100
 +++
 
 Step-by-step from the high-poly sculpting result to a low-poly version with all the high-detail structure baked into a normal map.

@@ -2,7 +2,7 @@
 title = 'Details in Multires'
 date = 2024-09-28T15:40:23+02:00
 draft = false
-weight = 60
+weight = 70
 +++
 
 Sculpt again, now simultaneously in multiple polygonal resolutions.

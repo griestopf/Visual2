@@ -2,7 +2,7 @@
 title = 'Hello Blender'
 date = 2024-09-28T15:27:29+02:00
 draft = false
-weight = 10 
+weight = 20 
 +++
 
 Installation, first steps, and getting familiar with Blender.

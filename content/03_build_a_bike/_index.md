@@ -1,8 +1,7 @@
 +++
 title = 'Build a Bike'
-date = 2024-09-28T15:40:23+02:00
 draft = false
-weight = 20
+weight = 30
 +++
 
 Get familiar with navigating in 3D and using built-in 3D-objects (*primitives*) to block-out simple models.

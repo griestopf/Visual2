@@ -2,6 +2,8 @@
 archetype = "chapter"
 title = "Schedule"
 weight = 1
+draft = true
+hidden = true
 +++
 
 This course is held in a 5 days per week, 8 hours per day block schedule. Attending the course in presence is highly recommended. 

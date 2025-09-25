@@ -2,7 +2,7 @@
 title = 'Blockout - Silhouette-wise'
 date = 2024-09-28T15:40:23+02:00
 draft = false
-weight = 40
+weight = 50
 +++
 
 Learn basic sculpting tools. Use them to make the simple clay model match the intended shapes.
