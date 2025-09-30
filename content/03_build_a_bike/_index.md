@@ -31,7 +31,7 @@ Get familiar with navigating in 3D and using built-in 3D-objects (*primitives*) 
 
 ## Material
 
-- [Bicycle side view with dimensions](./bike_backdrop.png). Download the image and use it as a reference object.
+- [Bicycle side view with dimensions](./bike_backdrop.png). Download the image and use it as a reference image.
 
 - Blender Documentation
   - [Basic Transformations](https://docs.blender.org/manual/en/2.81/scene_layout/object/editing/transform/basics.html)

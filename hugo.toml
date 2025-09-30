@@ -16,7 +16,7 @@ theme = 'hugo-theme-relearn'
   hideAuthorDate = true
   
 [outputs]
-  home = ['html', 'rss', 'print', 'search']
+  home = ['html', 'rss', 'print']
   page = ['html', 'rss', 'print']
   section = ['html', 'rss', 'print']
 
