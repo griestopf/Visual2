@@ -18,7 +18,7 @@ Welcome to the Visual 2 module's web site. This web site covers the crafts-part 
 Deliverables
 
 - Documentation of the process. One PDF containing
-    - One (good looking 🙂)shot of the character
+    - One (good looking 🙂) shot of the character
     - Mood board
     - Reference board (char circle)
     - Design versions/sketches
