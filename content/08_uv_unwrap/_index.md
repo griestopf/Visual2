@@ -2,7 +2,7 @@
 title = 'UV Unwrapping'
 date = 2024-09-28T15:40:23+02:00
 draft = false
-weight = 780
+weight = 80
 +++
 
 Unfold the threedimensional topology onto a flat 2D plane. This will allow textures to control the visual appearance of the object's surface material.

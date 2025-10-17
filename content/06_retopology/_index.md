@@ -2,7 +2,7 @@
 title = 'Retopology - Know Your Quads'
 date = 2024-09-28T15:40:23+02:00
 draft = false
-weight = 560
+weight = 60
 +++
 
 Generate a simple geometry made out of quads only with edge loops following your character's features.
