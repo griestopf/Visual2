@@ -15,10 +15,14 @@ Welcome to the Visual 2 module's web site. This web site covers the crafts-part 
 
 ## Assignment Submissions
 
-- Documentation of the process
-- Mood board
-- Reference board (char circle)
-- Design versions/sketches
-- Wip Versions of the model (if saved)
-- 1 well lit shot of the char
-- The final model for inspection
+Deliverables
+
+- Documentation of the process. One PDF containing
+    - One shot of the character
+    - Mood board
+    - Reference board (char circle)
+    - Design versions/sketches
+- The final model for inspection.
+    - Blender file (.blend) with packed resources
+
+
